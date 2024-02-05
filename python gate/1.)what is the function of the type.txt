@@ -1,0 +1,12 @@
+1.)what is the function of the type() function:
+ans:() is used to
+
+
+2.)we use or need variables to make our codes clean and understandable so whoever reads the code would be able to understand what the function of the code is, variables also make it easier to to call and make use of what is stored inside.
+
+3.)  userage = 25
+
+4.)the code ; name ="alice", print(name) is used to print or display the what is held by the varable or container name, so in this case the code would print out or displat Alice.
+
+
+5.)wha is the correct way to display the variable named total cost and assign it result of 5 * 12 

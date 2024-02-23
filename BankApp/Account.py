@@ -28,4 +28,5 @@ class Account:
             raise ValueError
         if amount < 1:
             raise ValueError
+        self.balance -= amount
 
